@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.393" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Understand the concept of Background" name="Planning to buy a Land" time="0.045">
+<system-out><![CDATA[
+Given You have savings......................................................passed
+When you can go for an EMI..................................................passed
+Then To invest in property..................................................passed
+Given I am looking to buy a land............................................passed
+When I have to approach land promoters......................................passed
+Then I can buy a land.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Understand the concept of Background" name="Planning to buy a House" time="0.012">
+<system-out><![CDATA[
+Given You have savings......................................................passed
+When you can go for an EMI..................................................passed
+Then To invest in property..................................................passed
+Given I am looking to buy a House...........................................passed
+When I have to approach real estate agent...................................passed
+Then I can buy a Home.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
